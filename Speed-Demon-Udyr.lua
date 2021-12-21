@@ -4,7 +4,7 @@ end
 
 do
     local function AutoUpdate()
-		local Version = 0.2
+		local Version = 0.1
 		local file_name = "Speed-Demon-Udyr.lua"
 		local url = "https://github.com/Rhynai/Scripteronis/blob/main/Speed%20Demon%20Udyr.lua"
         local web_version = http:get("https://github.com/Rhynai/Scripteronis/blob/main/Udyr%20Version.txt")
