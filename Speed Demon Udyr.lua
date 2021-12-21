@@ -1,1 +1,293 @@
-client:load("1d4nX2uA4H3shRSfbDYwmK2cg3ISZfFzgXz5emXiX E+PISo2URUjnxedM7q gm6INEDkE10BYXS0Fpj1pQ2rghwPEnN49Ds2FGP yHliUxqxGwylupmZLKJz8tK vbjfLuye4lyg3QtIs7lO0FzOX3s RNsf2gOhG36ck0PbEYmYdletJfjOdDmaGmojLTyOs5eZ0ut WrAt8NFcTwOgGDU2X0zAEACYSXyPEZQirCYa2YzGFHaY7VrSZTwmXLQ2VoexFAy2kc3kXzMOOLwO3ChWmekfxphNWfjk XFd0iNAY0s rnKgL3CFpA7UsEtYRMxxEZ71rL09L9FM1lDjEivcji SEKBbjKx2FrKyUGnGGmC3RDsOudDbkKtpYEtus9JdMYqNHrYFiS6GUEDbwXa6VJoPIPeZ8uyXS3lbRJr7ePz0jOE0HBk16Iy0QOjkWVHjJzp1pGeaGLehlMm2GIlB4cEcWlumYcKGrDg0ryyLJBfgoIZbbs5xEFAOHz1 blaPJtR32ivcji IFGrZdTI0FHgyUGnGCpnNrygjvKgbEJul0rHg3JnLTwXgmTihUzaaEbscoOmkU5ekH IIIplGCy6INFIjEWK6DOE0LVsODoyxASjPCrQ54P12t96V01j4U13HG6Cy cFCKWImStgGpsstRLzeJBcv2bhdvsA1gBNO2PB vxfW33Qh2iAY0CPIApjIYmtf5MsyXeI GmbXvTyhR0xIBPgp7mS0IAEJQYyhGv7hWcnaQDfIwvniUUjjLmfe2KDawm6INED7Eey6HyQ0MVs00Qy0UljhXrzg4HzzOGhWXrahlMnxG2zZqSmI0Bu6UFg9L1gvL3HgJB8tsXebbf5xFVA02Ou9MNq3icDhXIhbjmpIFKxaeFst5QqPdT7V2arNw29Ov63SEKymCrDfspJZgexfWO6gGza yrnIsSmPAA6PHpeIIq5WWHhZ39MjFTlAo4Me5Fq1Kl0OV1y6XCKOOTu04VeAiG6NAAexCLkl4mqCGBu6UGl bTK0ryyLOJbvN2wb8IkFUxy4Zflab9wgTxDhmdLW0SPbEYmYdlegq2uOkXw 2TnXMLW4LCnZA71mqI82WoEJQYyfWW6NHcj9eTnYMmqPFVjh2Fsa3CkbGDnZcZm6dPsmTPFtrQe3Z5H3Amsj1ZzhNj2OZG7 mW6iU5n3Cftz9q8akODlEClGvIugrzietlQ3sfgab2o3D9vOHzh bQrhicHjCspcjXxdE6jPApu2VI01Y1BAipnNrygOrFeckK0o16C0NRWe h2NCy6LGcjXSrnIsSmjkVPk2ysIMOm HLaCxZR7SuKzHmHf1weOqVMN19si2UyYNDzG2SPbW diU5n3CvO5KSmI4mA6Z0u9MT6svDR09JRgs5mIc2p4VJoO1DyaSRbfJVG5WasWGCldE7obyde0FHgyUGnGHysiwTyh8GYclKlNmXo0IBJcAd2NCy6LH1abZYFb9Ts5Uxo6VejbsFPAgmzL34D1d1uBRC8v1R32o9BNV9o62ZQkZy9xN6a n0V3URiM2YlAOctbqKi8UOVXwoy08i2g3RVurfjbbMn1EVqxIYg LVFhfxz5GegbpzqY0ilbk6m0n2uOdPzXWFpQrz15wqwX0ChoKhvt9JsMQYPPQnQ2HDnVjQCbM1Bh0VUPIPeb2KzbTn7ZRVCij15lnzSgLVwzFJV10iliyr5h9PlxLyacSOhNFVi4XUjk X6ZjeJAFpsGsPy2FnL235R6sMiZufxNUJr1HeiSSBw3iYyXGiuppllVUG8cAxq0K2k5ePmW2u74LbvicpnCee1 LIGe8NTc 7NNDY6eWcjbasoZw9lj1V857uYZ23AanidIwx0jj7iz2dG3HBZOKlQM05kkGLFh H5zXuQXHrn20Nt1WUzjacFZi L6V5g LYuvInz2NR6f8ojYRAn11guxqTzXHBmYh8ARCZ2c5DDX0Cybdyt3FHxA8v8XHaF2RLvhLOtX1Kz Zva0J0Ec iMiTn72G95WjksYSLoi1gdPqKxZYqgT1Y8LNFn7Zryk31Tt1JtAFAPzOH46HbQ39Lv13OkV31o4T9jxDaky4cAdgqvmYWfWRklfRrAe ge0r2xZHIgGT0oAHz1XwlJ1oVNhW7wZ0SCKOe4ZZawe5Uv2dPCV3KG4K7yOs5ebUKuoXMpgMRDZfFD32r8e3ydGDYGZITh1j08SHqZZNaDV2Lkb7NSTUGx8RC8 sVsO5xDMY5v6WvQZZy9xN6a n0V3URiM3Y5ku5nd4WBzkO5IrMKvL3FeNU788EjYMPnAAB7OMjyVRNsh33Fh376YdHPdUUqbYKd85ElOeOnNSqA4L31UbKiZDYjlKhrs8JTfQEAXnTj22PaGWQzZMXEPgw6ZsKsZ8mqV0LhZ7JV1 Cg Ty8v1R32o9I3UmqiGLxj4LlM J6NSHi4U5ZDmQolNqpa4WxyjOvcrjicMLDLMtHeYPqItw61kdyO07D vVsgH8KOD2qQLcpeVyiaFKsg5ElNk1GXVY NsYghL0sdReh Kdnf8hJZfRAg3edLlcoX EiVRhoSABzk1UlbMKkO2vaY8N TUGx8RDogMlwM5pi1kvv6VZii9TfOZFYGG7aglU4NW2oj 5uZjOFlEd4IrMVuRSyZ7V40oDeSc2zO0xrM5LsXLFJXeEySSILrj9 cjYtddUltJ2f4eTsV3xnUHzt5L ZOkuk JvrsMVHbf7NjCe8YX5aGXwZXI0yPCpQir3qZ1YI GT7cv4PQVKp0leNtq9LNZ5zHgSbPGRDhuS6N3W V3ThfURj2irmf4DAdj2ez GtWL8h0uqD0ZBQtEIIdLbs1EUoAHzKbL5yf33xW2Vmbk1SLApALUpv4GHsyVODIQdRYvDu5HF7IEQlmrgdf2RIYgai3mL7gGcc kMbKs1S5U5aPJCqZ2uDGiu6d7VrkDejlY5Jg79w4Vk2Hlcx62nD37LsO3KnGD66gUVs3TAllO9lYpizljyi Sjo0 vzetU788EjYMPnAABSN13lJrAIOcxi5HJzapPmbkKideCje6LgF HAXWU8TbDk5udhaEKjl66DwIgGWaaDNFrG0S0hGWAobcbyPBEeJsKie3yk GDjZ6cnkj1fBzOw0L1j1qUnNU9n42DG53LrNtdTICPKh0UeL1oh5qOmT4GIm BgKHnKvLPmfs9if2bjXS2EOT9rxIYg LVFhfxz5GegbpzqY0ilbk6m0o2zP HiPVPpQrzM4L jLApxVUM9gNlWYfVzgmT5gX5aVkLnPITz6U5QVruiZLYo9GT9acNSmUmiiY1J0KtQMVIKxCPkimKKOKCprr6e leC3U5fICLc5OirbLVjldWkVSQssLPDfpg9a2ssdL861QBzN13hGusw1eJhhyZNbjmqIgljTYusgVDgC CnKTpDQryySrpICeeDlKvDu8VDVgezgmLaXSSYGY4sbdbb5UR 47CmZ2CwWm7TKNNdQYP1yXLI0nwe3ZRm2jqm5XHD597y4ZB6KSqzV0ht13Ypj956Yj6xmcNgNHEtgL3iRtFagLfhav2o00JB4HeiS8BthitK5C6tW5cpeVyiYjuYgZkv3FqzGDpwH6mtRHGRcEKsmGYMf3RFDAVN32DhLFW6N EdUcXA60U6WXp0MJpxGEPabRJrQV6g9kOsxVpq15Nz1AT0PDQyk8Hh1tiaGD66ShAuACMIl4PnefBm6U9wMM3Ktv7B13w79YH7IwAXNU5tOXy9GsYHQZEyXGitbkClPQpxMVa7UpEvOjLzGFxnUHz70bKsZ0Jg0WXH4pUQJSeDgGDULDh6JBDbfGGQSQ06X7uxdMazXyyzCxBS6jLs6HcotrNY0Z9MxC5kj3H9QJiKxJF6GHTl4UxqNmjzxHHpYkOdkkSwXLAs2uL4W8R6bYDeUHbJOUxn4XiKXL5vGDxKh2aip0TrdUUmdYattlIDOeT7Ty6wH6jziv0qbEyvm6Pdf8FXeTwRhGTheCzIRWb1XRuyPDcjYLKqY3 uAmTjZLs7jYejlXKEgsVsN6RH10ljX2vRjLSozXtya3HagExg12jvau5ncqStAkGl vzobPv7YM9v3IIDL Yq1EFazVnl bQVGJFN423tW4g6bkC3adYs0HUh3kXZIC RHMLw5LCqYkYvlDMrf3NnYgaO4WvhNF5BRiUmU9Om1g5t61mfeY PXW3 CrsQT HDz3eGtBoI1J9BNUOj6nLM4 Pp1996O2ei3k8mzQzOZ59ncKezBUF9GwQltvTBgN9o6s6nbbYk3EFEO7T0IsYHQZEyhWwlciqtZUuvdY6nUlHgyUHwXiqA4L31UbijdDY290U9gYho0VJQ22LkeW1kVkYGZLqDRQAYWXpvIMuzXCzHZ7JHm nTgFmhe6EnxKRGOUlNPCqyOJygxJGeXiHyhZZf1Gwo7P9ncKezBUpgWL8k0tfzf7VJvN2sKwYm2kdr3HigNI0rh4Ri5SZipK8lbUKxdaelg0Yf4ELzbWJvVRfvhSSjXZC090rrg1ENJRnqNDC6gGza yrnIsSmPAA6PJCfc9GWICizINEDQUGg6DPJtrQIxFAyxEcx6Ae2OJygxNqbGG7aglU4O264jagnb5Wz8Z0kcMMffR7L1t96v3UjXSjuxB0exICgWL5vM2RD4We6Y35RTZGiVQ evJol2yunGCpnNrygOvqkICaz6q2As2QMeU3Q42TPNST7 ETnSwXFYTNPk1TmdMuDX2TPK3EvX H0Ao9J0HBY0JVMrgSjPCqyOJygxJF6GET7h1RVzCvO5KSmI0Bu6UGl bTK0ryyLNVkgGveIrHlrgAmxHzpX8BE3iciUmBmr3q7YUm4Z 7ZgKsyNjTC WyC2STz5KdjKQp90WXF0MFS0QZ 4WD hSzIRWb1XQbvPFRd61TIIIplGCy6INFM7AHJA2cFtLlizKRz2kvokCay433kxLm7a01IiFVszH2lzuvrd0luca5gXbIsuRSygNhbtmveIrHlxAAmxHygGrBO2jVhXSEqQGSlIApjIUpegZbksAGnGCqsgbOKOrFeIydgTGXos2YEc iMiTnc2X95bEIzdMbukURUjqYhb8Qn 17QccZCkAqgcUdE4XBf1pQyJkck6HaG07vPKMdHISHPfEVsriLk5KSmI0Buyd3gQMQWfLvH2JhQf3QlZMXuxEFAOHzIWMNQYpZihiF1bk1sZVFsIVP70KYy4d0nWWUrNvZlhcZ4Z0K087lptNVJLSaGg27o2VqIbYIBYScYRQAYWXpvINGtXW2zINEDQUGg6DOE0HAeF5FR3D0rRQeyOJygxJF6GG1j4yoexCLkl4mqCKWImStK vbjfLuy2uVkf9YnbRalGElF3Hf1 blaOcwyOCYhc4DEdEuxYjJe7VIt5bnsamXc4vjzjvKsY0KfoKuwv25NeQsNhmjcdWleAADnIsTE6VRQjrTeZMaEbGDjYcY77dak0hC8tL9hNZwyOlcx53HHh92gHu0jX2DaPAkIxCLk5IGmI0BuzYdjWLzg cTM29xb88EjYMQSNU5nxIYg MlT3jRNRmoipKWAbVaLZeyt3p8h5XeAWWUoNs29Ov6jblJ6 6h8e9ZFcViDPEZeelqCWd8oS9CmSwAmTIpICoplGCzia79Mjjaz6EdEg7FrOV5I3UmqiGLxh3ju03djawuy4k9wxGvw5P9ncKezBUGp 8EpuvDHfuMet2ssaLfz2wkmOL6KA8ArMZIyOCYhojflUkKkZZ mb3EPLXeYISq7fvTuI8FeIApgTGXo0IAEJUJENGZaenbVXjY7XTgniFVaRJCmb8YEXV7IdRJR6j1R8TOw7XAvxJFMOATw6WViUtbl3MdRWWDQ4QhZOHwCj H7bKeGmcd1aRYfuHiyS0074YIfbbXlGElF3Hf0WMJy3jYHODU W106MydjIUpe0FHgyUGnGCpnivflh6teIApgTGXo0IAEJQYyNCy6dWf6QFYBZSPrX0xa52yLY2UmGHPdZ787QUGg6DOE0HAexFAyxASjPEDzi PRzJpzGCG6NAAexCLk5KSmI0Bu6Y0uXprg0ryyLJA70IHeIrIq1kQQxHygGrArMZJDhmdLW0SlIApjIUqnglISPdLrcS70Yt7U3QhnIEuu GYBg25oPABDiF7R1WPQX k8ZxDE40pQir3qZ1Y6a2T5dJoDXa6g TPFtrQeGJlR3Az35XzF54OpxKBYGDOQRyoexCLk5KSmI0CdyY0uA8Dg0ryyLJA70IHeIvsrxCp71rbsXJND3iNQZW3vbfT5aEKxCApe0FHgyUGnGCpnNrygOrGBYVC06CDxUoAEJQYyNCy6LCS6GYYBZqGmPAA6PHpeIMKzXAm6INEDQUGg6HzK0KJjNZRmzD5P01HxXZigN3  GG7aglU4O264jagnb5Wz8Z0kcMMfscTM29xbe92xZKfqzQAeEXyxGvFF3ZJWgXa1Y59mck3odU e7G7gCB0DAipnNrygOrFeIFGo 0qS0IAEJQYyNCy6LCS69d1nSdcA60xaX7mjY3ySWW37ISVL7d K6DOE0HAexFAyxASjPCqyOLLh2 WuICqzNAAexCLk5KSmI0Bumd kA8Dg0ryyLJA7g2biC8HlxAAmxHyg9LYrYJ3z5HIp8nPUVDYVK qYsJ2usAGnGCpnNrygOrFeIEamTKntttUt0fih23X7eHcaIWQvbSqF6T9IkLusY8KXISyYP3EUQYLumDPRg15ZDpdD3Dq55Wni5Zf1OOqnV2vQgkdqOVj5z clcGluca5gKHEhtbOyUNlpvIoYYMQsOVQvxIu9GsIbQXwyOCYhW0SlIApjIUpevJol2yunGCpnNrygOrFeIApgTGXos2YETBiM42vaT2PaWeMUYMmnPFRd61TIIIplGCy6INEDQUGg6DOE0JNf26R zACNPCqyOJygxJF6GCG6NAAexG6ylIGmI0Bu6UFgGrDg0rzDetQA0IHeIrHlxABr1rOKGrArM33M5ANmpK8PCkmyYjuq0J612ET79WYBNtLs5LKwKA KNmXo0IBQcfazgCzB1WmaOjAsYN1T5U57PIPeb3aNXXHkLx5EjEKvzYz6g2JtAp1z4Dqw5WVzOK29xN6a n0V40VYM3 lyPcrK22DzDdNWL8hariyOFAn4JHIC8HlxABz013p R5KM08y523ucfmyaUUsbjUxUjsm2kOn9SlnivDy5R0YIEauTKIEf2lWdMFLfW3ee2moI ErbmGQPAA6PHpeIIquXizHZ7JHm nTgFmhe6EnxKRGOUlNPCqyOJygxJF6GCG6fUYe1W6yA1HtZkStBEKsbLXo8RfNe Nbe7UYYLboOTEvxIY9GsEr2icCOGompLbaZ0K3XkOftK2lAZ1rcXymgvDu5KdZc0KfnWHo7Z0EN6ZzgmO6UGDobUk7YN1t6VQePIl7IJx6KCzPaRZRKAGg6DOE0HAexFAyxASjPCrH5pzMN3 aO2Da3VJLNWfl5P9uZj5Y6UFgGrDg0ryyLJA70IHeItUm21RXzHiKGrArMZIyOCYhW0SlIApjIYKsgDvgyUGnGCpnNrygOrGjbkFKTGXo0IAEJQZDgmOzLCS6GUDnIsTv6gBH61uieY7YRE7JXbgMQYLumDPRg15ZDpdD3Dq55Wni5Zf1OOqnV2D7gkVd3XYpjauvI11m6VJgWL8k0tPHf QevMMwZR25zQAdEXyyLIAVMZIyOCYhW0SldE7obyde0FHgyUGnGCpnNrzp58GKYUUl16Utf3JaZ szNHPd2WlzGUDnIsSmPAA6PHpeIIplGEL7cdVjSUqK6DOE0HAexFAyxASj6WVCIpygxJF6GCG64U5iriLk5KSmI0Buyd3gSbYhgwiGX7xFcLfDKHIm1kQm11TubIpy3jZxjm3trjbtdUG8cDYqfZblNk1GXVYsPHy9VHFvIEuu GYMs3NnLVezhmbagCC6NV3nM bCJgA6PHpeIIplGHPdZ787QUGg6DOE0HAexFAy0Ufj0GvM51LsO3KnRWLj3QBY0G6yZqSmI0Bu6UFgGrDg0ryyLJBtf3UYRHnurgAmxHygGrArMZIyOGivcYGlIApjIUpe0J2uPSunGCpnNrygOvqkIDyl90dc2LN UeexZii6gGza yrnIsSmPAA6PHpeIIquXiziZ79nWEjlBGmpf1xZOVhV0Eqyj2Lx0 Ph1tSaSiq6UR0eBSMlyu8mbjWIBaunXMUfvbDKg3Uev2Y3cafxNU5rM8TzXK9JOeIqVSYyW4XzZAqHaeCY2KYh3EjsbC nUsYgS9ZuCgpgTGXo0IAEJQYyNCzPdGcjAADnIsSmPAA6PHpeIIplGCzeZtF96dald3LJf2JLNZ5zxF9r6WU2OJygxJF6GCG6NAAexCLk5M5ncqS68UpKGrDg0ryyLJA70IHeIrHlxEVAOFmgGrArMZIyOCYhW0TqbkFNIUpe0FHgyUHs mFRNrygOv0sZyelmqcSUsxTZf3KNGXQem5P9dbBIugy6UUdRVdIIIplGGjbIQNI6dX58G1 a6RdJVky3EzoigeyOJygxJF6GET7h1RPzCvO5KSmI4WImStgGrDgsLWyXtV8gNrmUPEUKD93zXz09vVFGFIyOCYhW0SlQ0uCdX2m2TvgyUGnXWUrH8ygOrGnZgqS 02swYhgUSwb20SeLH9dXd7RIsSmPAA6PHqBY3C5PSeeCtEDQUHlzn480HAexJlExD1o5WHmQMLMI8W5Siq6iEhj1gzk5KSmI0Bu6WShaSUS2ri2LJA70M2sZpwq1kQQrlmKAbxG2oNKOGm2pK55aUYxIYYse6YpOjyvIQdnNryghLdiZQp9TK Dt2JTPABDiF7ie29aIUnRIsSmPElbPLQjbtJaX2TPXd3EjZ1l8I9Iw2JdOZ5zNkPo6CayV0YgBZGP9G1jHgAexCLk5KSmajZuzddkXHD97Hz5W7Rve6UNTJQUxFRuO12KGrArMZIyOCYhW0SlQ0YwYEXm2TvgyUGnGCpnNvTu5pteIApg 0rs0IAEJQYyNAm6LCS6GUDnIshz0S9tY0YGQ1yGS1KzINEDQYrm6HeJtsU4O5VhM1gkiHLDQOTk44O5XWa73kxjOCvkb1hmMfCdyY0uA8Dg0ryyLJA7s25ebLfpOQAeEXzNRPRQ1mFTZkiE72cGUgq3aYKsUlHgyUGnGCpnNrygOtuZbk3s WDxUoAEJQYyNCy6LCS6GWQzZMXERAkzPHpeIIplGCzabxU7QUGg6H9SgFoexFAyxASjPCQLZ17EG2dBOVTJXClSriLk5KSmI0Bu9 6NRPUFePX U1V19WveIrHl0UYm11TubIpy3jZxjm3trjbtdUG8cDYjtpMi2Y1rISpfUHyxOwWmZUTKTGXo0IAEJQZH4izie29aGV3fIuiVYCV5YpmDRYq59GTjCtEDQUGg6DOE0HAexHZKOUbrRQeyOJygxJF6GG1j4yoexCLkl4mqCGBu6UFgGrDg3HZ5W7Rve6fQQakGICtLJlmgGrArMZIyOCnu7hqJRTYRThUDUp2uPSvq GasgcO6iR0YX0K2 0r8e8NFcUVA3WLgNC1k Db7aM5xPgw6i7UddMao9yizCr==")
+if game.local_player.champ_name ~= "Udyr" then
+    return 
+end
+
+do
+    local function AutoUpdate()
+		local Version = 0.1
+		local file_name = "Speed Demon Udyr.lua"
+		local url = "https://github.com/Rhynai/Scripteronis/blob/main/Speed%20Demon%20Udyr.lua"
+        local web_version = http:get("https://github.com/Rhynai/Scripteronis/blob/main/Udyr%20Version.txt")
+        console:log("Speed Demon Udyr.lua Vers: "..Version)
+		console:log("Speed Demon Udyr.lua Vers: "..tonumber(web_version))
+		if tonumber(web_version) == Version then
+
+            console:log("...Speed Demon Udyr Ready to Roll.....")
+
+
+        else
+			http:download_file(url, file_name)
+			      console:log("Speed Demon Udyr Update available.....")
+						console:log("Please Reload via F5!.....")
+						console:log("----------------------------")
+						console:log("Please Reload via F5!.....")
+						console:log("----------------------------")
+						console:log("Please Reload via F5!.....")
+        end
+
+    end
+
+    AutoUpdate()
+end
+
+
+-- Locals to pull info from
+
+local myHero = game.local_player
+local local_player = game.local_player
+
+local function Ready(spell)
+    return spellbook:can_cast(spell)
+end
+  
+local function GetEnemyHeroes()
+    local _EnemyHeroes = {}
+    players = game.players
+    for i, unit in ipairs(players) do
+        if unit and unit.is_enemy then
+            table.insert(_EnemyHeroes, unit)
+        end
+    end
+      return _EnemyHeroes
+end
+  
+local function GetAllyHeroes()
+    local _AllyHeroes = {}
+      players = game.players
+    for i, unit in ipairs(players) do
+        if unit and not unit.is_enemy and unit.object_id ~= myHero.object_id then
+            table.insert(_AllyHeroes, unit)
+        end
+    end
+    return _AllyHeroes
+end
+  
+local function IsValid(unit)
+    if (unit and unit.is_targetable and unit.is_alive and unit.is_visible and unit.object_id and unit.health > 0) then
+        return true
+    end
+    return false
+end
+
+local function HasEStun(unit)
+    if unit:has_buff("udyrbearstuncheck") then
+        return true
+    end
+    return false
+end
+
+
+
+-- Menu
+
+udyr_category = menu:add_category("Udyr")
+udyr_enabled = menu:add_checkbox("Enabled", udyr_category, 1)
+udyr_combokey = menu:add_keybinder("Combo Mode Key", udyr_category, 32)
+menu:add_label("Speed Demon Udyr", udyr_category)
+
+udyr_combo = menu:add_subcategory("[Combo]", udyr_category)
+udyr_combo_use_q = menu:add_checkbox("Use [Q]", udyr_combo, 1)
+udyr_combo_use_w = menu:add_checkbox("Use [W]", udyr_combo, 1)
+udyr_combo_use_e = menu:add_checkbox("Use [E]", udyr_combo, 1)
+udyr_combo_use_r = menu:add_checkbox("Use [R]", udyr_combo, 1)
+
+Jungle_ClearM = menu:add_subcategory("Jungle Clear", udyr_category)
+Jungle_Clear = menu:add_checkbox("Jungle Clear", Jungle_ClearM, 1)
+udyr_jungle_use_q = menu:add_checkbox("Use [Q]", Jungle_ClearM, 1)
+udyr_jungle_use_w = menu:add_checkbox("Use [W]", Jungle_ClearM, 1)
+udyr_jungle_use_e = menu:add_checkbox("Use [E]", Jungle_ClearM, 1)
+udyr_jungle_use_r = menu:add_checkbox("Use [R]", Jungle_ClearM, 1)
+Min_ManaJ = menu:add_slider("Minumum mana [%] to Jungle", Jungle_ClearM, 1, 100, 20)
+
+Lane = menu:add_subcategory("Lane Clear", udyr_category)
+Jungle_Clear = menu:add_checkbox("Lane Clear", Lane, 1)
+udyr_lane_use_q = menu:add_checkbox("Use [Q]", Lane, 1)
+udyr_lane_use_w = menu:add_checkbox("Use [W]", Lane, 1)
+udyr_lane_use_e = menu:add_checkbox("Use [E]", Lane, 1)
+udyr_lane_use_r = menu:add_checkbox("Use [R]", Lane, 1)
+Min_ManaL = menu:add_slider("Minumum mana [%] to Lane", Lane, 1, 100, 20)
+
+
+Choose_StanceQ = menu:add_checkbox("Q build", udyr_category, 1)
+Choose_StanceR = menu:add_checkbox("R build", udyr_category, 0)
+
+-- Spell Data
+local Q = {Range = 600, Delay = .09}
+local W = {Range = 600, Delay = .09}
+local E = {Range = 600, Delay = .09}
+local R = {Range = 325, Delay = .09}
+
+-- Casting 
+
+local function CastQ()
+    spellbook:cast_spell(SLOT_Q, Q.Delay)
+end
+
+local function CastW()
+	spellbook:cast_spell(SLOT_W, W.Delay)
+end
+
+local function CastE()
+	spellbook:cast_spell(SLOT_E, E.Delay)
+end
+
+local function CastR()
+	spellbook:cast_spell(SLOT_R, R.Delay)
+end
+
+-- Combo
+
+local function Combo()
+
+	target = selector:find_target(600, mode_health)
+    if menu:get_value(udyr_combo_use_q) == 1 and Ready(SLOT_Q) then
+        if IsValid(target) and HasEStun(target) == true and menu:get_value(Choose_StanceQ) == 1 then
+        CastQ()
+        end
+    end
+
+    if menu:get_value(udyr_combo_use_w) == 1 and Ready(SLOT_W) then
+        if IsValid(target) and HasEStun(target) == true  then
+            CastW()
+        end
+    end
+    
+    if menu:get_value(udyr_combo_use_e) == 1 and Ready(SLOT_E) then
+        if IsValid(target) and HasEStun(target) == false then
+            CastE()
+        end
+    end
+    
+    if menu:get_value(udyr_combo_use_r) == 1 and Ready(SLOT_R) then
+        if IsValid(target) and HasEStun(target) == true and menu:get_value(Choose_StanceR) == 1 then
+            CastR()
+        end
+    end
+end
+
+local function Dist(unit)
+    distance = myHero:distance_to(unit.origin)
+    return distance
+end
+
+
+local function Jungle()
+    
+    local JungleClearMana = myHero.mana/myHero.max_mana >= menu:get_value(Min_ManaJ) / 100
+
+    minions = game.jungle_minions
+	for i, target in ipairs(minions) do
+
+        if Ready(SLOT_Q) then
+            if menu:get_value(Choose_StanceQ) == 1 and menu:get_value(udyr_jungle_use_q) == 1 and Dist(target) <= 250
+             then
+                if JungleClearMana then
+                CastQ()
+                end
+            end
+        end
+        if Ready(SLOT_W) and menu:get_value(udyr_jungle_use_w) == 1 and Dist(target) <= 250
+         then
+            if JungleClearMana then
+                CastW()
+            end
+        end
+        if Ready(SLOT_E) and menu:get_value(udyr_jungle_use_e) == 1 and Dist(target) <= 250
+         then
+            if JungleClearMana then
+                CastE()
+            end
+        end
+        if Ready(SLOT_R) then
+            if menu:get_value(Choose_StanceR) == 1 and menu:get_value(udyr_jungle_use_r) == 1 and Dist(target) <= 250
+             then
+                if JungleClearMana then
+                CastR()
+                end
+            end
+        end
+    end
+end
+
+local function Clear()
+
+    local LaneClearMana = myHero.mana/myHero.max_mana >= menu:get_value(Min_ManaL) / 100
+
+    minions = game.minions
+	for i, target in ipairs(minions) do
+
+        if Ready(SLOT_Q) then
+            if menu:get_value(Choose_StanceQ) == 1 and menu:get_value(udyr_lane_use_q) == 1 and Dist(target) <= 250 then
+                if LaneClearMana then
+                CastQ()
+                end
+            end
+        end
+        if Ready(SLOT_W) and menu:get_value(udyr_lane_use_w) == 1 and Dist(target) <= 250
+         then
+            if LaneClearMana then
+                CastW()
+            end
+        end
+        if Ready(SLOT_E) and menu:get_value(udyr_lane_use_e) == 1 and Dist(target) <= 250
+         then
+            if LaneClearMana then
+                CastE()
+            end
+        end
+        if Ready(SLOT_R) then
+            if menu:get_value(Choose_StanceR) == 1 and menu:get_value(udyr_lane_use_r) == 1 and Dist(target) <= 250
+             then
+                if LaneClearMana then
+                CastR()
+                end
+            end
+        end
+    end
+end
+
+local function Flee()
+
+    if Ready(SLOT_Q) then
+        CastQ()
+    end
+    if Ready(SLOT_W) then
+        CastW()
+    end
+    if Ready(SLOT_E) then
+        CastE()
+    end
+    if Ready(SLOT_R) then
+        CastR()
+    end
+end
+
+
+
+
+local function on_tick()
+    mode = combo:get_mode()
+    if menu:get_value(udyr_enabled) == 1 then
+        if mode == MODE_COMBO then
+            Combo()
+        end
+    end       
+        --MODE_HARASS
+    if menu:get_value(udyr_enabled) == 1 then
+        if mode == MODE_LANECLEAR then
+            Jungle()
+            Clear()
+        end
+    end
+        --MODE_LASTHIT
+        --MODE_FREEZE
+    if menu:get_value(udyr_enabled) == 1 then
+        if mode == MODE_FLEE then
+            Flee()
+        end
+    end
+        --MODE_ORBWALKER
+        --MODE_NONE
+end
+client:set_event_callback("on_tick", on_tick)
+
